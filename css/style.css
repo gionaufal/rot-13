@@ -1,0 +1,27 @@
+body {
+background: #d6f9ff; /* Old browsers */
+background: -moz-radial-gradient(center, ellipse cover, #d6f9ff 0%, #9ee8fa 100%); /* FF3.6-15 */
+background: -webkit-radial-gradient(center, ellipse cover, #d6f9ff 0%,#9ee8fa 100%); /* Chrome10-25,Safari5.1-6 */
+background: radial-gradient(ellipse at center, #d6f9ff 0%,#9ee8fa 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d6f9ff', endColorstr='#9ee8fa',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+  font-family:'Droid Serif', arial;
+}
+
+button {
+  color: black;
+}
+
+form {
+  color: black;
+}
+
+.jumbotron {
+  color:black;
+  background-color:transparent;
+}
+
+p{
+  color:black;
+}
+
+
